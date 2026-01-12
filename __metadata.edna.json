@@ -1,0 +1,14 @@
+{
+  "ver": 1,
+  "notes": [
+    {
+      "name": "scratch",
+      "altShortcut": "1"
+    },
+    {
+      "name": "daily journal",
+      "altShortcut": "2"
+    }
+  ],
+  "functions": []
+}

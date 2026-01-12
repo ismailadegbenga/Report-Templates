@@ -1,0 +1,11 @@
+CHEST CT SCAN
+Indication: POST FURTHER CHEMOTHERAPY 
+Comparison: Chest CT study done MARCH 2023
+Technique: Contrast-enhanced CT of the chest
+Findings: 
+The solitary nodule in the anterior basal segment of the left lower lobe with a diameter of 6.9mm in the previous study has reduced by 39% to a diameter of 4.2mm. The surrounding ground-glass opacities have completely resolved.
+There are no new pulmonary nodules.
+There is no pleural effusion.
+The heart size is within normal limits. There is no pericardial effusion.
+The outline, density and architecture of the dorsal spine, ribs and sternum are normal. There is no osseous metastasis.
+Conclusion: Partial response in a known case with pulmonary metastasis
