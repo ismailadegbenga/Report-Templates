@@ -61,6 +61,8 @@ Impression: Normal abdominopelvic scan
 ## CT
 
 ### Normal Female
+
+ABDOMINOPELVIC CT SCAN
 Indication:
 Technique: Plain, triple-phase and delayed series of abdominopelvic CT scan
 Findings:
