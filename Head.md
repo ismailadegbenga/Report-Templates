@@ -99,8 +99,9 @@ The cranium and scalp show normal signal.
 IMPRESSION: Normal study.  
 
 ### Cerebral microangiopathy
+BRAIN MRI
 INDICATION: Cerebral microangiopathy
-Technique: Axial T1WI, T2WI, FLAIR and T2W-FFE, SAGITTAL T1W-FFE & T2WI, CORONAL T1W-FFE, T2W1, AXIAL DWI & ADC, of the brain were obtained at 1.5T
+Technique: Non-contrast multiplanar T1WI, T2WI, FLAIR and T2W-FFE, SAGITTAL T1W-FFE & T2WI, CORONAL T1W-FFE, T2W1, AXIAL DWI & ADC, of the brain were obtained at 1.5T
 FINDINGS: 
 The cerebral hemispheres, brainstem and cerebellum show normal signal with no region with restricted diffusion.
 There is no intra-cranial mass haemorrhage or mass lesion.
