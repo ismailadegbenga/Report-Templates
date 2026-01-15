@@ -5,6 +5,7 @@
 
 ## CT
 ## Normal
+CRANIAL CT SCAN
 Indication:
 Technique: Non-contrast {& Contrast-enhanced} axial CT slices of the brain
 Findings
@@ -36,12 +37,12 @@ CRANIOCERVICAL CT SCAN
 Indication: RTA
 Technique: Non-contrast axial CT slices of the brain
 Findings
-There is no intra-cranial haemorrhage, haematoma or mass lesion.
+There is no intra-cranial haemorrhage or haematoma.
 The cerebral hemispheres show normal density.
 There is no shift of the midline brain structures.
 The ventricles and sub-arachnoid spaces are normal.
-The paranasal sinuses, mastoids, middle ear, and orbits are also normal.
-The skull and cervical spine are normal.
+The paranasal sinuses, mastoids, middle ears, and orbits are also normal.
+There is no skull fracture; there is no fracture or listhesis of the cervical vertebrae.
 Impression: Normal craniocervical CT scan
 
 
