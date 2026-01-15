@@ -100,10 +100,10 @@ IMPRESSION: Normal study.
 
 ### Cerebral microangiopathy
 BRAIN MRI
-INDICATION: Cerebral microangiopathy
-Technique: Non-contrast multiplanar T1WI, T2WI, FLAIR and T2W-FFE, SAGITTAL T1W-FFE & T2WI, CORONAL T1W-FFE, T2W1, AXIAL DWI & ADC, of the brain were obtained at 1.5T
+INDICATION: 
+Technique: Non-contrast multiplanar T1WI, T2WI, FLAIR and T2W-FFE, DWI & ADC of the brain were acquired at 1.5T
 FINDINGS: 
-The cerebral hemispheres, brainstem and cerebellum show normal signal with no region with restricted diffusion.
+There is bilateral periventricular leukoaraiosis, consistent with chronic small vessel ischaemia. There is no restricted diffusion in the cerebral hemispheres, brainstem and cerebellum.
 There is no intra-cranial mass haemorrhage or mass lesion.
 The ventricular system and sub-arachnoid spaces are normal.   
 The cranium and scalp show normal signal.
