@@ -61,6 +61,8 @@ Impression: Normal abdominopelvic scan
 ## CT
 
 ### Normal Female
+Indication:
+Technique: Plain, triple-phase and delayed series of abdominopelvic CT scan
 Findings:
 The liver (span: 14.9cm), gallbladder and bile ducts appear normal.
 The pancreas and spleen (span: 7.3cm) also appear normal.
