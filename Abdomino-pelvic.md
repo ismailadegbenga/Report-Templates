@@ -73,17 +73,7 @@ There is no pelvic fluid collection.
 Impression: Normal abdominopelvic CT scan
 
 ### Normal Male
-Indication: ? Nephrocalcinosis
-Finding:
-The kidneys are normal in size, outline and attenuation. There are no parenchymal or calyceal calcifications in either kidney. Both kidneys show normal uptake and excretion of contrast media. There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. The kidneys measure 10.0 x 3.9cm and 10.9 x 5.9cm for the right and left sides respectively. 
-There is no mass lesion, polyp or calculus in the urinary bladder.
-The liver (span: 14.9cm), gallbladder and bile ducts appear normal.
-The pancreas, spleen (span: 7.3cm), adrenals, stomach, small and large bowel are normal.
-There is no ascites.
-The lung bases are free of mass lesions and nodules.
-There is no osseous lesion.
-
-Impression: Normal abdominopelvic CT scan
+                                                                                       
 
 
 ## CT CHEST AND ABDOMEN
