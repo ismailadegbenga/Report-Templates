@@ -104,10 +104,10 @@ INDICATION:
 Technique: Non-contrast multiplanar T1WI, T2WI, FLAIR and T2W-FFE, DWI & ADC of the brain were acquired at 1.5T
 FINDINGS: 
 There is bilateral periventricular leukoaraiosis, consistent with chronic small vessel ischaemia. There is no restricted diffusion in the cerebral hemispheres, brainstem and cerebellum.
-There is no intra-cranial mass haemorrhage or mass lesion.
-The ventricular system and sub-arachnoid spaces are normal.   
+There is mild ex vacuo dilatation of the ventricles due to mild brain atrophy. 
+The sub-arachnoid spaces are normal.   
 The cranium and scalp show normal signal.
-IMPRESSION: Fazekas grade III cerebral microangiopathy  
+IMPRESSION: Fazekas grade II cerebral microangiopathy  
 
 
 ### Senile brain and cerebral microangiopathy
