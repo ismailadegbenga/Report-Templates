@@ -1,4 +1,4 @@
-## Xray
+# Xray
 
 ### Normal
 Findings:
@@ -12,16 +12,19 @@ Impression: Normal chest radiograph
 Findings:
 There is cardiomegaly (CTR: 0.56) with unfolding of the aorta.
 The lungs are clear of opacities.
-The costo-phrenic sulci are not blunted.
+There is no evidence of pleural effusion.
 The bony thorax is normal.
 
 Impression: Cardiomegaly (secondary to Hypertensive heart disease).
 
 
-## CT
+# CT
 
-### Normal
+## Normal
+
+Chest CT Scan
 Indication:
+Technique: Plain and contrast enhanced series of chest CT
 Findings: 
 There is no supraclavicular, retrostenal, mediastinal or hilar adenopathy.
 The lung fields are clear of opacities, nodules and masses.
@@ -35,16 +38,22 @@ Impression: Normal Chest CT Scan
 ## CTPA
 
 ### Normal
-Findings:
-There is no filling defect in the main, right and left pulmonary arteries down to their segmental branches.
-The pulmonary artery-aorta ratio is normal ( ).
-There is no evidence of right heart strain.
-The lung fields appear normal.
-There is no pleural effusion.
-The heart (CTR: ), coronary vessels and thoracic aorta appear normal.
-The rib cage appears normal.
 
-Impression: No evidence of pulmonary embolism
+**Indication**: ? DVT r/o PE
+
+**Technique**: Standard pulmonary angiography protocol
+
+**Findings**:
+
+There is no filling defect in the main, right and left pulmonary arteries down to their segmental branches.  
+The pulmonary artery-aorta ratio is normal.  
+There is no evidence of right ventricular hypertension.  
+The lungs are clear of opacities.  
+There is no pleural effusion.  
+The heart size and mediastinum are normal.  
+The bony thorax is normal.
+
+**Impression**: Normal CT pulmonary angiography
 
 ### Pulmonary hypertension and Right heart failure
 Clinical indication: RT SIDED HEART FAILURE SEC TO SEVERE PULMONARY HYPERTENSION.
