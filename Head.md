@@ -90,6 +90,7 @@ Impression: Normal Cerebral angiography
 ## MRI
 
 ### Normal
+BRAIN MRI
 INDICATION
 TECHNIQUE: Non-contrast MRI with multi-planar T1WI, T2WI, FLAIR, T2-FFE, isotropic 3D-T1WI and diffusion weighted sequences of the brain at 1.5T
 FINDINGS: 
