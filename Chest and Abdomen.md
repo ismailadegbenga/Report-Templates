@@ -1,6 +1,6 @@
 ## CT CHEST AND ABDOMEN
 INDICATION: Breast Ca
-TECHNIQUE: Plain, Triple-phase and delayed series of chest and abdominopelvic CT scan with PO and PR contrast enhancement
+TECHNIQUE: Plain, Triple-phase and delayed series of chest and abdominopelvic CT scan
 FINDINGS:
 CHEST
 There is no mass lesion in either breast.
