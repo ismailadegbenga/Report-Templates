@@ -4,8 +4,7 @@ Indication: Pain
 
 Comparison Study: Nil
 
-Technique: AP and Lateral of both knees
-
+Technique: AP and Lateral of both 
 Findings:
 
 The outline, alignment, density and architecture of the bones of both knee joints are normal.
