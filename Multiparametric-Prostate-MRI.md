@@ -1,3 +1,29 @@
+
+MULTIPARAMETRIC PROSTATE MRI
+Indication: ? CAP
+
+Technique: Multiplanar T1-weighted (T1WI), T2-weighted (T2WI), Diffusion-weighted (DWI), Apparent diffusion coefficient (ADC) and dynamic contrast-enhanced imaging (DCEI) sequences of the prostate at 1.5T
+
+Findings: 
+
+Enlarged prostate with volume of 146 ml (70 mm x 68 mm × 59 mm × 0.52). 
+
+Peripheral zone: shows indistinct hyperintensities on DWI without corresponding hypointensity on the ADC map (PI-RADS 2). 
+
+Transition zone: Oval T2WI non-circumscribed hypointense nodule with a diameter of 13mm at the mid-level in the anterior half on the left. Shows moderate hypointense signal on DWI with corresponding hyperintense signal on the ADC map. It also shows early differential contrast enhancement on DCEI (PI-RADS 4). Two other circumscribed wedge-shaped nodules with diameters of 17.3 and 16.8mm are in the superior third of the right and left posterior half respectively. These lesions are moderately hyperintense on high b-value DWI  and moderately hypointense on the ADC map. Both do not show differential contrast enhancement on the DCEI (PI-RADS 3). There are also other multiple (4 - 6) circumscribed hypointense encapsulated nodules without restricted diffusion (PI-RADS 2). 
+
+Anterior fibromuscular zone: normal
+
+No suspicious locoregional or pelvic lymph nodes. 
+
+No suspicious bone lesions.
+
+Conclusion: 
+
+- Clinically significant cancer likely (PI-RADS 4) in the left anterior transitional zone
+
+- Clinically significant cancer equivocal (PI-RADS 3) in the bilateral posterior transitional zones
+
 ## PI-RADS 3
 
 Clinical Notes: Known prostate cancer Gleason 6 under active surveillance diagnosed 1 year ago. PSA 5.4 ng/ml. Under α1-adrenergic receptor therapy for BPH.
