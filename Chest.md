@@ -39,11 +39,13 @@ Impression: Normal Chest CT Scan
 
 ### Normal
 
-**Indication**: ? DVT r/o PE
+CT Pulmonary Angiography
 
-**Technique**: Standard pulmonary angiography protocol
+Indication: ? DVT r/o PE
 
-**Findings**:
+Technique: Standard pulmonary angiography protocol
+
+Findings:
 
 There is no filling defect in the main, right and left pulmonary arteries down to their segmental branches.  
 The pulmonary artery-aorta ratio is normal.  
