@@ -66,12 +66,14 @@ ABDOMINOPELVIC CT SCAN
 Indication:
 Technique: Plain, triple-phase and delayed series of abdominopelvic CT scan
 Findings:
-The liver has a normal span and density. The bile ducts and gallbladder and bile ducts appear normal.
-The pancreas and spleen (span: 7.3cm) also appear normal.
-There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. 
-The kidneys measure 10.0 x 3.9cm and 10.9 x 5.9cm 
-for the right and left sides respectively. There is no mass lesion, polyp or calculus in the urinary bladder.
-The uterus is anteverted, non-gravid and measures 7.7 x 3.7 x 3.6cm. There is no uterine or adnexal mass lesion.
+The liver has a normal span and density. The bile ducts, pancreatic ducts and gallbladder are normal.
+The pancreas and spleen also display normal dimensions and density.
+The adrenals and kidneys show normal position, size and density.
+There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.
+The uteters display normal caliber and position.
+There is no mass lesion, polyp or calculus in the urinary bladder.
+There is no ascites or para-aortic lymphadenopathy.
+The uterus is anteverted, normal in size. There is no uterine or adnexal mass lesion.
 There is no pelvic fluid collection.
 
 Impression: Normal abdominopelvic CT scan
