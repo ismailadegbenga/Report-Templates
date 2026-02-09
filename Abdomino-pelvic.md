@@ -253,3 +253,32 @@ Impression:
 •	Incidental finding of intra-thoracic bullet pellets
 
 John R, Putta T, Simon B, Eapen A, Jebasingh F, Thomas N, Rajaratnam S. Normal adrenal gland thickness on computerized tomography in an Asian Indian adult population. Indian J Radiol Imaging. 2018 Oct-Dec;28(4):465-469. doi: 10.4103/ijri.IJRI_129_18. PMID: 30662212; PMCID: PMC6319091.
+
+## MRI
+ABDOMINOPELVIC MRI
+
+Indication: Symptomatic uterine fibroid r/o adenomyosis
+
+Technique: Contrast-enhanced MRI with axial and coronal T2WI; axial T2-SPAIR, axial dual-FFE, e-THRIVE of the abdomen. Saggital T2WI, axial T1WI, coronal T2WI; axial and coronal fat-suppressed Gd-T1WI of the pelvis at 1.5T
+
+Findings:
+
+There is a large solitary sub-serous focal solid mass lesion measuring 133 x 147 x 85 mm arising from the anterior aspect of the uterine fundus. This mass displays low T1WI signal but heterogeneous signal on  STIR and T2WI. The remaining normal uterus measures 85 x 68 x 47 mm. The endometrium has a thickness of 13.2 mm. The junctional zone has a of circa 5 mm.
+
+A mild collection of fluid with a depth of 21 mm is in the vesico-uterine recess.
+
+The urinary bladder has a normal wall and thickness. There is no adnexal mass lesion.
+
+There is no ureteric or pelvicalyceal dilatation. The kidneys are normal in position, size, shape and outline. They measure 110 x 55 x 45 mm and 105 x 55 x 53 mm for the right and left sides respectively. There is no cystic or solid renal mass lesion. The adrenal glands are normal in size and signal.
+
+The liver and spleen have normal spans of 141 mm and 96 mm. Both organs show normal homogeneous signal on all sequences. The pancreas and its ducts are normal.
+
+The gallbladder, bile and common bile ducts are normal. There is no calculus within the biliary system.
+
+There is no ascites or para-aortic lymphadenopathy.
+
+The bones display normal signal.
+
+The lung bases are free of nodules; there is no pleural effusion.
+
+Conclusion: Solitary large sub-serous fundal uterine leiomyoma
