@@ -70,7 +70,7 @@ The liver has a normal span and density. The bile ducts, pancreatic ducts and ga
 The pancreas and spleen also display normal dimensions and density.
 The adrenals and kidneys show normal position, size and density.
 There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.
-The uteters display normal caliber and position.
+The ureters display normal caliber and position.
 There is no mass lesion, polyp or calculus in the urinary bladder.
 There is no ascites or para-aortic lymphadenopathy.
 The uterus is anteverted, normal in size. There is no uterine or adnexal mass lesion.
