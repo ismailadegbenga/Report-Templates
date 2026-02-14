@@ -34,7 +34,7 @@ Sum of pelvic inlet measurements: (Normal range: > 240mm)
 
 
 ## MRI 
-### PELVIS
+### MRI OF THE PELVIS
 TECHNIQUE: Axial, Sagittal and Coronal T2WI, Axial T1WI, STIR, DWI and ADC map of the pelvis
 INDICATION: ANAL CARCINOMA
 FINDINGS:
