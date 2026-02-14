@@ -92,9 +92,9 @@ Impression: Normal Cerebral angiography
 ### Normal
 BRAIN MRI
 INDICATION
-TECHNIQUE: Non-contrast MRI with multi-planar T1WI, T2WI, FLAIR, T2-FFE, isotropic 3D-T1WI and diffusion weighted sequences of the brain at 1.5T
+TECHNIQUE: Contrast-en MRI with multi-planar T1WI, T2WI, FLAIR, T2-FFE, isotropic 3D-T1WI and diffusion weighted sequences of the brain at 1.5T
 FINDINGS: 
-The cerebral hemispheres, brainstem and cerebellum show normal signal with no region with restricted diffusion.
+The cerebral hemispheres, brainstem and cerebellum show normal signal with no region having restricted diffusion.
 There is no intra or extra axial mass lesion or haemorrhage.
 The ventricular system and sub-arachnoid spaces are normal.   
 The cranium and scalp show normal signal.
