@@ -3,7 +3,8 @@
 
 Findings:
 The outline and density of the bones of the face and cranium are normal.
-There is no evidence of a fracture or 
+There is no evidence of a fracture.
+The 
 
 ## CT
 ## Normal
