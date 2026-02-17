@@ -232,7 +232,7 @@ Impression: Isolated hydromyelia (? Cause)
 MRI of the brain is recommended for further evaluation.
 
 
-WHOLE SPINE MRI
+## WHOLE SPINE MRI
 Indication: Back pain 
 Technique: Sagittal T2WI, STIR and myelogram of the entire spine. Axial T1W, T2W and myelogram of the spine at 1.5T
 Findings:
