@@ -4,7 +4,7 @@
 Findings:
 The outline and density of the bones of the face and cranium are normal.
 There is no evidence of a fracture.
-The 
+The paranasal sinuses, mastoid air cells and 
 
 ## CT
 ## Normal
