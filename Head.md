@@ -4,7 +4,8 @@
 Findings:
 The outline and density of the bones of the face and cranium are normal.
 There is no evidence of a fracture.
-The paranasal sinuses, mastoid air cells and 
+The paranasal sinuses, mastoid air cells and mandible are normal.
+Conclusion: Normal skull radiograph 
 
 ## CT
 ## Normal
