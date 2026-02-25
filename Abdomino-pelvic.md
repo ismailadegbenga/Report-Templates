@@ -72,6 +72,7 @@ The adrenals and kidneys show normal position, size and density.
 There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.
 The ureters display normal caliber and position.
 There is no mass lesion, polyp or calculus in the urinary bladder.
+The stomach, small and large bowels are not dilated.
 There is no ascites or para-aortic lymphadenopathy.
 The uterus is anteverted, normal in size. There is no uterine or adnexal mass lesion.
 There is no pelvic fluid collection.
