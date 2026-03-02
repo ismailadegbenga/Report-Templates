@@ -1,13 +1,12 @@
 # Xray
 
 ### Normal
-Findings:
-The lung fields are clear of opacities, nodules and masses.
-There is no pleural effusion.
-The heart size and mediastinum are normal
-The density and architecture of the bony chest wall are normal.
-Impression: Normal chest radiograph
-
+ Findings:
+ The heart size is normal (CTR: ).
+ The lungs are clear of opacities.
+ There is no pleural effusion.
+ The bony thorax is normal.
+ Conclusion:Normal chest radiograph 
 ### Hypertensive Heart Dx
 Findings:
 There is cardiomegaly (CTR: 0.56) with unfolding of the aorta.
@@ -39,13 +38,11 @@ Impression: Normal Chest CT Scan
 
 ### Normal
 
-CT Pulmonary Angiography
+**Indication**: ? DVT r/o PE
 
-Indication: ? DVT r/o PE
+**Technique**: Standard pulmonary angiography protocol
 
-Technique: Standard pulmonary angiography protocol
-
-Findings:
+**Findings**:
 
 There is no filling defect in the main, right and left pulmonary arteries down to their segmental branches.  
 The pulmonary artery-aorta ratio is normal.  
