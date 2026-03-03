@@ -275,6 +275,7 @@ There is no ureteric or pelvicalyceal dilatation. The kidneys are normal in posi
 The liver and spleen have normal spans of 141 mm and 96 mm. Both organs show normal homogeneous signal on all sequences. The pancreas and its ducts are normal.
 
 The gallbladder, bile and common bile ducts are normal. There is no calculus within the biliary system.
+The stomach, small and large bowels are not dilated and are free of masses.
 
 There is no ascites or para-aortic lymphadenopathy.
 
