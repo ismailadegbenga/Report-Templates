@@ -145,6 +145,29 @@ Excisional biopsy for histology is recommended
 
 
 ### MRA
+
+#### Normal
+
+Indication:  Inability to see well ? Space-occupying lesion
+
+Technique: Non-contrast brain protocol, non-contrast angiographic and venographic series of the brain at 1.5T
+
+Findings:
+
+The cerebral hemispheres, brainstem and cerebellum display normal signal with no region having restricted diffusion.  
+There is no intra-cranial haemorrhage or mass lesion.
+
+The sella turcica has normal dimensions. There is no intra- or supra-sellar mass lesion. The right and left intra-orbital and canalicular optic nerves display normal caliber and signal. The bilateral optic tracts similarly display normal caliber and signal. There is no intra-ocular or retro-bulbar mass lesion or fat stranding.   
+The ventricular system and sub-arachnoid spaces are normal.     
+The cranium and scalp show normal signal.
+
+The arteriographic series display normal caliber and ramification of the right and left internal carotid, anterior and middle cerebral arteries. The right and left vertebral arteries, basilar artery and its branches (the right and left posterior cerebral arteries) similarly display normal caliber and ramification. There is no luminal stenosis, extrinsic compression, dilatation or dissection in any of these vessels.
+
+The venographic series reveal bilateral symmetry of the transverse and sigmoid sinuses. It displays normal caliber with no evidence of luminal thrombosis within the superior sagittal, inferior sagittal, transverse and sigmoid sinuses. The internal cerebral veins, the great cerebral vein of Galen and the torcula herophili similarly display normal luminal caliber with no evidence of thrombosis. 
+
+Conclusion: Normal study
+
+#### Cavernous Angioma
 INDICATION: POST CRANIAL FOSSA BLEED SECONDARY TO ?HTN BLEED
 TECHNIQUE: Axial T1WI, FLAIR, T2WI,  SAG T1WI & COR T1WI, AXIAL DWI & ADC, MRA, AXIAL T1WI-Gd & 3D-T1WI of the brain were obtained.
 FINDINGS: 
