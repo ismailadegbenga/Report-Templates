@@ -66,7 +66,7 @@ ABDOMINOPELVIC CT SCAN
 Indication:
 Technique: Plain, triple-phase and delayed series of abdominopelvic CT scan
 Findings:
-The liver has a normal span and density. The bile ducts, pancreatic ducts and gallbladder are normal.
+The liver has a normal span and density. The intra-hepatic ducts, common bile duct, pancreatic ducts and gallbladder are normal.
 The pancreas and spleen also display normal dimensions and density.
 The adrenals and kidneys show normal position, size and density.
 There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.
