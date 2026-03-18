@@ -12,3 +12,9 @@ The wrist joint spaces appear normal.
 There is no soft tissue swelling.
 
 Impression: Normal wrist radiograph
+
+# MRI
+
+## Normal
+
+Findings:
