@@ -16,11 +16,11 @@ Impression: Normal wrist radiograph
 # MRI
 
 Findings:
-Alignment 
+Alignment of the wrist joint: Normal Abnormal 
 	Ulnar variance: None. Positive ulnar variance. Negative ulnar variance. 
 	Distal radioulnar joint: 
 	Carpal instability: None VISI DISI 
-Fluid 
+Presence of joint effusion
 	Carpus effusion: None Mild Moderate Severe 
 	Distal radioulnar joint effusion: None Mild Moderate Severe 
 Intrinsic ligaments 
@@ -55,3 +55,8 @@ Other findings
 	Ganglion cyst:
 
 Conclusion: 
+1. No degenerative changes
+2. Triangular fibrocartilage is preserved
+3. No bony or joint abnormality
+4. Normal flexor and extensor structures
+5. No ganglion cyst
