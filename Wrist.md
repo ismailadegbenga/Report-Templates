@@ -34,7 +34,7 @@ Joints
 	Lunate facet: Yes No 
 	Hamate-lunate facet: 
 	Synovium: Normal Abnormal
-Extensor compartment I: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. 
+Extensor compartment: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. 
 	Extensor tendons: Normal Abnormal
 	Extensor carpi ulnaris: Normal Abnormal
 Flexor compartment 
