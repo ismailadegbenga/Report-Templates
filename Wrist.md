@@ -28,16 +28,21 @@ Intrinsic ligaments
 	Lunotriquetral ligament: Normal Abnormal
 	Triangular fibrocartilage: Normal Abnormal
 Joints
-	Distal radio
+	Distal radioulnar joint: Normal Abnormal
+	Radiocarpal joint: Normal Abnormal
+	Intercarpal joints: Normal Abnormal
 	Lunate facet: Yes No 
 	Hamate-lunate facet: 
-Extensor compartment I: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. II: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. III: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. IV: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. V: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. VI: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. 
+	Synovium: Normal Abnormal
+Extensor compartment I: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. 
+	Extensor tendons: Normal Abnormal
+	Extensor carpi ulnaris: Normal Abnormal
 Flexor compartment 
-	Carpal tunnel: 
-	Median nerve: 
-	Flexor retinaculum: 
-		Flexor tendons: 
-		Guyon canal: 
+	Carpal tunnel: Normal Abnormal
+	Median nerve: Normal Abnormal
+	Flexor retinaculum: Normal Abnormal
+	Flexor tendons: Normal Abnormal
+	Guyon's canal: Normal Abnormal
 Articulations 
 	Thumb carpometacarpal joint: Normal. Mild osteoarthritis. Moderate osteoarthritis. Severe osteoarthritis. 
 	Scaphotrapezotrapezoidal joint: Normal. Mild osteoarthritis. Moderate osteoarthritis. Severe osteoarthritis. 
@@ -46,4 +51,7 @@ Other findings
 	Bones: 
 	Muscles: 
 	Vessels: 
-Impression
+	Nerves:
+	Ganglion cyst:
+
+Conclusion: 
