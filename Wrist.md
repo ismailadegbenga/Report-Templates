@@ -18,13 +18,17 @@ Impression: Normal wrist radiograph
 Findings:
 Alignment 
 	Ulnar variance: None. Positive ulnar variance. Negative ulnar variance. 
-Distal radioulnar joint Carpal instability: None VISI DISI 
-Fluid Carpus effusion: None Mild Moderate Severe 
-Distal radioulnar joint effusion: None Mild Moderate Severe 
+	Distal radioulnar joint: 
+	Carpal instability: None VISI DISI 
+Fluid 
+	Carpus effusion: None Mild Moderate Severe 
+	Distal radioulnar joint effusion: None Mild Moderate Severe 
 Intrinsic ligaments 
-	Scapholunate ligament: 
-	Lunotriquetral ligament: 
-	Triangular fibrocartilage: 
+	Scapholunate ligament: Normal Abnormal
+	Lunotriquetral ligament: Normal Abnormal
+	Triangular fibrocartilage: Normal Abnormal
+Joints
+	Distal radio
 	Lunate facet: Yes No 
 	Hamate-lunate facet: 
 Extensor compartment I: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. II: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. III: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. IV: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. V: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. VI: Normal. Mild tendinosis. Moderate tendinosis. Severe tendinosis. 
