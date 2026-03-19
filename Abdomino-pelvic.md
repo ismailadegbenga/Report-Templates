@@ -11,7 +11,7 @@ Impression: Normal abdominal radiograph
 
 
 ## USS
-
+i
 ### Normal Female
 Findings:
 The liver (span: 14.9cm), gallbladder and bile ducts appear normal.
