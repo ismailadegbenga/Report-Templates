@@ -17,6 +17,7 @@ Rhinitis
 --------------
 CT PARANASAL SINUSES
 Indication: Chronic rhinosinusitis
+Technique: Plain and contrast-enhanced CT of the paranasal sinuses
 Findings:
 There is bilateral mucosal hypertrophy of the nasal turbinates.
 The frontal, ethmoidal, sphenoidal and maxillary sinuses are well pneumatized and normal.
