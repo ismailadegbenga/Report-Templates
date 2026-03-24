@@ -50,13 +50,7 @@ The intervertebral disc spaces are normal.
 Impression: Normal thoracolumbar spine radiograph
 
 ## Lumbosacral
-Findings
-There is normal lumbar spine lordotic curvature.
-The outline, alignment, density, height and architecture of the lumbar vertebrae are normal.
-The intervertebral disc spaces are normal.
-
-
-Impression: Normal lumbosacral spine radiograph
+M
 
 
 ## Thoracolumbar spine
