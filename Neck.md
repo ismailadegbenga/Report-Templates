@@ -30,6 +30,9 @@ The jugular veins are normal.
 
 Conclusion: Normal CT neck.
 
+### Normal structured report
+
+NECK CT SCAN
 INDICATION:  
 COMPARISON: none 
 TECHNIQUE: Thin section axial images were obtained from the skull base down to the lung apex with 3mm slice thickness reconstruction. Coronal and sagittal reconstructions were performed. The examination was reviewed in soft tissue, bone, and lung windows. FINDINGS: 
