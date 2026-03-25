@@ -37,7 +37,8 @@ INDICATION:
 COMPARISON: none 
 TECHNIQUE: Thin section axial images were obtained from the skull base down to the lung apex with 3mm slice thickness reconstruction. Coronal and sagittal reconstructions were performed. The examination was reviewed in soft tissue, bone, and lung windows. FINDINGS: 
 VISUALIZED INTRACRANIAL/ORBITS/SINUSES: No abnormality of the visualized intracranial compartment or orbits.Visualized paranasal sinuses and mastoid air cells are clear. 
-SUPRAHYOID NECK: Normal nasopharynx and oropharynx.Normal parapharyngeal and masticator spaces.Normal oral cavity and floor of mouth structures. INFRAHYOID NECK: Normal posterior hypopharynx.Normal aryepiglottic folds.No significant hematoma. SALIVARY GLANDS: Normal parotid and submandibular glands. 
+SUPRAHYOID NECK: Normal nasopharynx and oropharynx.Normal parapharyngeal and masticator spaces.Normal oral cavity and floor of mouth structures. 
+INFRAHYOID NECK: Normal posterior hypopharynx.Normal aryepiglottic folds.No significant hematoma. SALIVARY GLANDS: Normal parotid and submandibular glands. 
 LYMPH NODES: No pathologic lymph nodes by size or morphology criteria. 
 VESSELS: Vascular structures of the neck are patent. 
 THYROID: Normal. 
