@@ -10,9 +10,9 @@ The right hip joint space is normal.
 
 Impression: Normal hip radiograph
 
-# CT
+## CT
 
-# MRI
+## MRI
 **MRI OF THE HIPS**
 
 Indication: Hip pain
@@ -28,3 +28,58 @@ The skin and subcutaneous tissues display normal signal
   
   
 Impression: Normal study
+
+### Normal
+
+**Clinical Information:**
+
+**Technique:**
+
+Multiplane T1, PD, PD SPAIR and STIR sequences were obtained through the pelvis and ____ hip.
+
+**Comparison:**
+
+___________
+
+**Findings:**
+
+Bones:
+
+- No evidence of fracture or bone oedema is seen.
+- No femoral head changes to suggest avascular necrosis
+- No focal bony lesion is seen.
+- No evidence of femoro-acetabular impingement
+
+Cartilage and Labrum:
+
+- No joint space narrowing is seen.
+- No evidence of altered cartilage signal is identified to suggest chondromalacia or delamination
+- The labrum has a normal appearance with no tear identified.
+- No paralabral cyst is seen.
+- Ligamentum Teres is normal
+
+Effusion:
+
+- No joint effusion
+- The trochanteric bursa is normal
+
+Muscles and tendons:
+
+- No muscle abnormality is seen around the ___ hip joint.
+- Iliopsoas muscle and tendon:  Normal.
+- The gluteal musculature and tendons: Normal.
+- The iliotibial muscle and tendon: Normal
+- The adductor muscles and tendons: Normal
+- Hamstring muscles: Normal
+- Hip flexors: Normal
+
+Neurovascular structures:  Normal
+
+Pelvic Structures:
+
+- No visceral abnormality seen.
+- Lymph nodes: Normal
+
+**Conclusion:**
+
+Normal MRI ___ hip.
