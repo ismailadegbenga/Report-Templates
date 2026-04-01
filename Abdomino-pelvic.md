@@ -284,3 +284,36 @@ The bones display normal signal.
 The lung bases are free of nodules; there is no pleural effusion.
 
 Conclusion: Solitary large sub-serous fundal uterine leiomyoma
+
+## MRI
+ABDOMINOPELVIC MRI SCAN
+
+INDICATION: Staging of cervical cancer
+
+TECHNIQUE: Contrast-enhanced multiplanar TIWI, T2WI, STIR T2-FFE and Diffusion-weighted sequences of the abdomen and pelvis
+
+FINDINGS:
+
+There is a homogeneously enhancing solid mass lesion with a lenght of 51mm, breadth of 34mm and an antero-posterior diameter of 35mm in the cervix and inferior uterine corpus. It has a depth of 18.5mm. This mass is partly circumferential extending clockwise from the 6 to the 3 o'clock position involving both posterior and anterior lips of the cervix. It displays intermediate signal on T2WI and low signal on T1WI. It does not breach the serosa. 
+
+There is no infiltration of the adnexae and adjacent organs. There is no infiltration of the superior vaginal walls.
+
+Four round intra-mural T2WI hypointense leiomyomas with diameters of 7, 12, 13 and 20mm are scattered in the anterior and posterior uterine corpus. 
+
+There is no ascites, locoregional or para-aortic lymphadenopathy.
+
+A simple thin-walled cyst with a diameter of 43mm is in the left ovary. There is, otherwise no adnexal mass lesion.
+
+The liver has a normal span and signal. There is no hepatic mass lesion. The intra-hepatic ducts, common bile duct, pancreatic ducts and gallbladder are normal.  
+The pancreas and spleen also display normal dimensions and density.  
+The adrenals and kidneys show normal position, size and density.  
+There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.  
+The ureters display normal caliber and position.  
+There is no mass lesion, polyp or calculus in the urinary bladder.  
+The stomach, small and large bowels are not dilated.
+
+The bones display normal signal.
+
+The lung bases are free of nodules; there is no pleural effusion.
+
+Conclusion: FIGO Stage IB3 (T1bN0M0) cervical cancer
