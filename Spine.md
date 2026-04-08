@@ -48,11 +48,6 @@ The intervertebral disc spaces are normal.
 
 
 Impression: Normal thoracolumbar spine radiograph
-
-## Lumbosacral
-M
-
-
 ## Thoracolumbar spine
 Findings:
 There is normal dorsal and lumbosacral spine curvature.
