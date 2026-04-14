@@ -117,6 +117,7 @@ IMPRESSION: Fazekas grade II cerebral microangiopathy
 
 
 ### Senile brain and cerebral microangiopathy
+BRAIN MRI
 Indication: SEPSIS ?FOCUS KIV VASCULAR DEMENTIA
 Technique: Axial T1WI, T2WI, FLAIR and T2W-FFE, SAGITTAL T1W-FFE & T2WI, CORONAL T1W-FFE, T2W1, AXIAL DWI & ADC, of the brain were obtained at 1.5T
 Findings: 
