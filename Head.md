@@ -81,15 +81,24 @@ Impression: {Senile} brain atrophy
 
 Findings:
 
-The arterial phase of the study shows no evidence of aneurysmal dilatation or stenosis at the origins of the internal carotid, middle cerebral, and anterior cerebral arteries and their branches.
+BRAIN ANGIOGRAPHY
 
-The vertebro-basilar system also appear normal.
+Indication:  Routine
 
-The venous phase shows no evidence of thrombosis in the superior and inferior sagittal, transverse and sigmoid sinuses.
+Technique: Non-contrast, angiographic and delayed series of cranial CT
 
-The vein of Galen and cavernous sinuses also appear normal.
+Findings:
 
-Impression: Normal Cerebral angiography
+The cerebral hemispheres, brainstem and cerebellum display normal density.  
+There is no intra-cranial haemorrhage, haematoma or mass lesion.
+
+The ventricular system and sub-arachnoid spaces are normal.     
+
+The angiographic series display normal caliber and ramification of the right and left internal carotid, anterior and middle cerebral arteries. The right and left vertebral arteries, basilar artery and its branches (the right and left posterior cerebral arteries) similarly display normal caliber and ramification. There is no luminal stenosis, extrinsic compression, dilatation or dissection in any of these vessels.
+
+The delayed series reveal bilateral symmetry of the transverse and sigmoid sinuses. It displays normal caliber with no evidence of luminal thrombosis within the superior sagittal, inferior sagittal, transverse and sigmoid sinuses. The internal cerebral veins, the great cerebral vein of Galen and the torcula herophili similarly display normal luminal caliber with no evidence of thrombosis. 
+
+Conclusion: Normal study
 
 ## MRI
 
