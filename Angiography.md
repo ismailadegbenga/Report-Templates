@@ -44,6 +44,7 @@ There is normal opacification of the aortic lumen from the root to its bifurcati
 
 The diameter of the aortic segments are normal as follows:
 
+Aortic annulus: 15mm
 Aortic sinus: 32mm
 
 Sino-tubular junction: 28mm
