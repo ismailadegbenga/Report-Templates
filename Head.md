@@ -113,6 +113,19 @@ The ventricular system and sub-arachnoid spaces are normal.
 The cranium and scalp show normal signal.
 IMPRESSION: Normal study.  
 
+### HIE
+BRAIN MRI  
+INDICATION: GLOBAL DEVELOPEMENTAL DELAY 2 AN EVOLVING CEREBRAL PALSY WITH BACKGROUND SEVERE PERINATAL ASPHYSIA HIE III  
+TECHNIQUE: Contrast-enhanced MRI with multi-planar T1WI, T2WI, FLAIR, T2-FFE, isotropic 3D-T1WI and diffusion weighted sequences of the brain at 1.5T  
+FINDINGS: 
+
+There are bilateral symmetrical areas of cystic encephalomalacia involving the deep white matter of the parietal lobes which show T2WI hyperintense, T1WI and FLAIR hypointense signal. An area of gliosis is in the left occipital cortex appearing hyperintense on T2WI and hypointense on FLAIR. DWI and ADC map show no restricted diffusion. There is generalised cortical atrophy with moderate ex-vacuo dilatation of the ventricular system and transependymal oedema of the periventricular white matter.  
+The brainstem and cerebellum display normal signal.  
+There is no intra-cranial mass lesion or haemorrhage.
+
+The skull and scalp display normal signal.
+
+Conclusion: Features consistent with severe hypoxic-ischaemic encephalopathy
 ### Cerebral microangiopathy
 BRAIN MRI
 INDICATION: 
