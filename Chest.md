@@ -38,7 +38,8 @@ Impression: Normal Chest CT Scan
 
 ### Normal
 
-**Indication**: ? DVT r/o PE
+CT Pulmonary Angiography
+**Indication**: r/o PE
 
 **Technique**: Standard pulmonary angiography protocol
 
