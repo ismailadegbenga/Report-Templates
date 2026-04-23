@@ -102,6 +102,7 @@ Conclusion: Normal study
 
 ## MRI
 
+![[Pasted image 20260423144853.png]]
 ### Normal
 BRAIN MRI
 INDICATION
