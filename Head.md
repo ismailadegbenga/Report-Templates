@@ -106,7 +106,7 @@ Conclusion: Normal study
 ### Normal
 BRAIN MRI
 INDICATION
-TECHNIQUE: Contrast-enhanced MRI with multi-planar T1WI, T2WI, FLAIR, T2-FFE, isotropic 3D-T1WI and diffusion weighted sequences of the brain at 1.5T
+TECHNIQUE: Contrast-enhanced Isotropic multi-planar T1WI; Sagittal T2WI; Axial T2WI, FLAIR, T2-FFE, and diffusion weighted sequences of the brain at 1.5T
 FINDINGS: 
 The cerebral hemispheres, brainstem and cerebellum show normal signal with no region having restricted diffusion.
 There is no intra-cranial mass lesion or haemorrhage.
