@@ -13,7 +13,6 @@ The liver is normal in size with a homogeneous density. There is no hepatic nodu
 The gallbladder, spleen, pancreas, adrenals and kidneys are normal.
 There is no intra-abdominal mass lesion, ascites or para-aortic lymphadenopathy.
 The stomach, small and large bowels are not dilated.
-The uterus, urinary bladder and adnexal structures are normal.
 The density and architecture of the bones are normal. There is no evidence of osseous metastasis.
 IMPRESSION: Normal study
 
