@@ -80,6 +80,22 @@ There is no pelvic fluid collection.
 Impression: Normal abdominopelvic CT scan
 
 ### Normal Male
+
+ABDOMINOPELVIC CT SCAN
+Indication:
+Technique: Plain, triple-phase and delayed series of abdominopelvic CT scan
+Findings:
+The liver has a normal span and density. The intra-hepatic ducts, common bile duct, pancreatic ducts and gallbladder are normal.
+The pancreas and spleen also display normal dimensions and density.
+The adrenals and kidneys show normal position, size and density.
+There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.
+The ureters display normal caliber and position.
+There is no mass lesion, polyp or calculus in the urinary bladder.
+The stomach, small and large bowels are not dilated.
+There is no ascites or para-aortic lymphadenopathy.
+There is no pelvic fluid collection.
+
+Impression: Normal abdominopelvic CT scan
                                                                                        
 
 
