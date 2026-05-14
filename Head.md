@@ -11,7 +11,7 @@ Conclusion: Normal skull radiograph
 ## Normal
 CRANIAL CT SCAN
 Indication:
-Technique: Non-contrast {& Contrast-enhanced} axial CT slices of the brain
+Technique: Plain and contrast-enhanced axial CT slices of the brain
 Findings
 There is no intra-cranial haemorrhage, haematoma or mass lesion.
 The cerebral hemispheres have a normal density.
