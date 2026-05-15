@@ -11,7 +11,7 @@ The heart and mediastinum are normal. There is no pericardial effusion.
 ABDOMEN
 The liver is normal in size with a homogeneous density. There is no hepatic nodule or mass lesion.
 The gallbladder, spleen, pancreas, adrenals and kidneys are normal.
-There is no intra-abdominal mass lesion, ascites or para-aortic lymphadenopathy.
+  There is no intra-abdominal mass lesion, ascites or para-aortic lymphadenopathy.
 The stomach, small and large bowels are not dilated.
 The density and architecture of the bones are normal. There is no evidence of osseous metastasis.
 IMPRESSION: Normal study
