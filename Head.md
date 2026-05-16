@@ -35,7 +35,9 @@ The paranasal sinuses, mastoids, middle ears and orbits are normal.
 There is no skull fracture.
 
 Impression: Acute left hemispheric ischaemic stroke
-![[Pasted image 20260516152604.png]]
+
+**Segmental anatomy of middle cerebral artery**
+![[Pasted image 20260516152747.png]]
 ### Normal Trauma
 CRANIOCERVICAL CT SCAN
 Indication: RTA
