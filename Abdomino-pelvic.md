@@ -96,8 +96,6 @@ There is no ascites or para-aortic lymphadenopathy.
 There is no pelvic fluid collection.
 
 Impression: Normal abdominopelvic CT scan
-                                                                                       
-
 
 ## CT CHEST AND ABDOMEN
 Indication:
