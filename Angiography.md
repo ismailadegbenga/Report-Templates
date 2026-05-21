@@ -13,8 +13,8 @@ Conclusion:  Normal CT angiogram.
 
 ## CT ANGIOGRAPHY OF THE LOWER LIMBS
 Indication:  
-Technique: Pre- and post-contrast 0.5mm axial slices were obtained from the lower aortic bifurcation at L4 to the feet with 3D volume rendering and MIP reconstructions.   
-Finding: There is normal flow of contrast through all the arteries of both lower limbs. These vessels also show normal caliber and ramification. 
+Technique: Pre- and post-contrast 0.5mm axial slices were obtained from the aortic bifurcation at L4 to the feet with 3D volume rendering and MIP reconstructions.   
+Findings: There is normal flow of contrast through all the arteries of both lower limbs. These vessels also show normal caliber and ramification. 
 There is no plaque, vessel wall calcification, thrombus or aneurysm in any of the vessels
 Conclusion: Normal study. 
 
