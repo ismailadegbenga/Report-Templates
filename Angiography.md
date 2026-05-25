@@ -60,3 +60,5 @@ Abdominal aorta (level of aortic hiatus): 15mm
 Abdominal aorta (level of renal arteries): 9mm
 
 Conclusion: No evidence of re-stenosis or post-procedure complication in a known case of aortic coarctation post angioplasty
+
+![[Pasted image 20260525143402.png]]
