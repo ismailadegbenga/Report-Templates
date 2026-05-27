@@ -14,6 +14,25 @@ There is no soft tissue swelling.
 
 Impression: Normal knee radiograph
 
+### CT SCANOGRAM OF THE LOWER LIMBS
+
+INDICATION: Genu valgum
+
+TECHNIQUE: Frontal scanogram of both lower limbs in the supine non weight-bearing position
+
+FINDINGS:
+
+There is bilateral significant lateral deviation of the mechanical tibiofemoral axes of both lower limbs in the frontal plane by 49mm on the right and 31mm on the left side (normal: < 10mm).
+
+The mechanical Lateral Distal Femoral Angle (mLDFA) is 79.4degree on the right and 87.2degree on the left side respectively (normal: 87 +/- 3degrees), indicating normal femoral shaft axis.
+
+The mechanical Medial Proximal Tibial Angle (mMPTA) is 98.7degrees and 92.7degrees for the right and left sides respectively (normal: 87 +/- 3degrees), indicating bilateral tibial valgus deformity.
+
+The density of the bones is normal.
+
+There is no fracture of the bones or subluxation of the joints of either lower limb.
+
+CONCLUSION: Bilateral genu valgum secondary to right and left tibial valgus deformity
 ## MRI
 
 ### Normal
