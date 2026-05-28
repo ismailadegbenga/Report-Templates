@@ -292,9 +292,7 @@ The gallbladder, bile and common bile ducts are normal. There is no calculus wit
 The stomach, small and large bowels are not dilated and are free of masses.
 
 There is no ascites or para-aortic lymphadenopathy.
-
 The bones display normal signal.
-
 The lung bases are free of nodules; there is no pleural effusion.
 
 Conclusion: Solitary large sub-serous fundal uterine leiomyoma
