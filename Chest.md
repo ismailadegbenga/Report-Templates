@@ -81,3 +81,21 @@ CONCLUSION: Features are those of:
 2.	Pulmonary arterial hypertension.
 3.	No evidence of pulmonary embolism is seen.
 2D Echo is advised for further evaluation.
+
+### Stage IV Sarcoidosis
+Chest CT Scan  
+Indication: Sarcoidosis  
+Technique: Plain and contrast enhanced series of chest CT  
+Findings: 
+
+There is widespread interstitial opacities due to peri-bronchovascular infiltrates causing retractile bronchiolectasis, worse in the upper and middle lobes appearing as clusters of small cysts giving honeycomb configurations in the apical and posterior segments of the right upper lobe, medial segment of the middle lobe, and apico-posterior segment of the left upper lobe.
+There is diffuse thickening, without calcification, of the apical pleura.
+There is no pleural effusion.
+There is no loss of lung volume.  
+There is bilateral symmetric non-calcific hilar and right para-tracheal lymphadenopathy.  
+The heart size is within normal limits. There is no pericardial effusion.  
+The outline, density and architecture of the dorsal spine, ribs and sternum are normal.
+
+Conclusion: Pulmonary fibrosis
+
+Impression: Features of stage IV Sarcoidosis
