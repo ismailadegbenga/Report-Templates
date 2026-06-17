@@ -93,7 +93,7 @@ The ureters display normal caliber and position.
 There is no mass lesion, polyp or calculus in the urinary bladder.
 The stomach, small and large bowels are not dilated.
 There is no ascites or para-aortic lymphadenopathy.
-There is no pelvic fluid collection.
+There is no osseous lesion.
 
 Impression: Normal abdominopelvic CT scan
 
