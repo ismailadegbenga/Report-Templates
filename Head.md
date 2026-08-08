@@ -112,8 +112,10 @@ TECHNIQUE: Contrast-enhanced Isotropic multi-planar T1WI; Sagittal T2WI; Axial T
 FINDINGS: 
 The cerebral hemispheres, brainstem and cerebellum show normal signal with no region having restricted diffusion.
 There is no intra-cranial mass lesion or haemorrhage.
-The ventricular system and sub-arachnoid spaces are normal.   
-The cranium and scalp show normal signal.
+There is no shift of the midline brain structures.
+There is no evidence of chronically elevated intra-cranial or intra-ventricular pressure.  
+The ventricular system and sub-arachnoid spaces are normal.     
+The cranium and scalp display normal signal.
 IMPRESSION: Normal study.  
 
 ### HIE
