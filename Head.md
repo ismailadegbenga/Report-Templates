@@ -16,6 +16,7 @@ Findings
 There is no intra-cranial haemorrhage, haematoma or mass lesion.
 The cerebral hemispheres have a normal density.
 There is no shift of the midline brain structures.
+There is no evidence of chronically raised intra-cranial or intra-ventricular pressure.
 The ventricles and sub-arachnoid spaces are normal.
 The paranasal sinuses, mastoids, middle ears and orbits are normal.
 There is no skull fracture.
