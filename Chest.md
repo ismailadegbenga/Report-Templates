@@ -1,4 +1,4 @@
-      # Xray
+# Xray
 
 ### Normal
  Findings:
@@ -6,7 +6,7 @@
  The lungs are clear of opacities.
  There is no pleural effusion.
  The bony thorax is normal.
- Conclusion:Normal chest radiograph 
+ Conclusion: Normal chest radiograph 
 ### Hypertensive Heart Dx
 Findings:
 There is cardiomegaly (CTR: 0.56) with unfolding of the aorta.
