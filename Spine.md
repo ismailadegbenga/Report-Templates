@@ -167,7 +167,7 @@ Technique: Sagittal T2WI of the entire spine. Axial T2WI, Sagittal T1WI, STIR; M
 Findings:
 The scanogram of the entire spine shows normal alignment and height of the vertebral bodies as well as normal disc signal.
 The outline, alignment and signal characteristics of the cervical vertebrae are normal.
-The disc spaces show normal height and signal; there is no disc desiccation, degeneration or vertebral end-plate changes.
+The intervertebral discs show normal height and signal; there is no disc desiccation, degeneration or vertebral end-plate changes.
 There is no stenosis of the bilateral neural foraminae and spinal canal.
 The ligamentum flava show normal thickness. There are no degenerative changes in the facet joints. 
 The spinal cord has a normal outline and signal characteristics.
