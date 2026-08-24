@@ -1,5 +1,4 @@
 # Xray
-
 ### Normal
  Findings:
  The heart size is normal (CTR: ).
