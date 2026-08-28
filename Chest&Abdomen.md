@@ -1,21 +1,4 @@
 ## CT CHEST AND ABDOMEN
-INDICATION: Breast Ca
-TECHNIQUE: Plain, Triple-phase and delayed series of chest and abdominopelvic CT scan with PO and PR contrast enhancement
-FINDINGS:
-CHEST
-There is no mass lesion in either breast.
-There is no axillary, internal mammary or supraclavicular lymphadenopathy.
-The lungs are clear of opacities, nodules and masses.
-There is no pleural effusion.
-The heart and mediastinum are normal. There is no pericardial effusion.
-ABDOMEN
-The liver is normal in size with a homogeneous density. There is no hepatic mass or nodule.
-The gallbladder, spleen, pancreas, adrenals and kidneys are normal.
-There is no intra-abdominal mass lesion, ascites or para-aortic lymphadenopathy.
-The stomach, small and large bowels are not dilated.
-The uterus, urinary bladder and adnexal structures are normal.
-The density and architecture of the bones are normal. There is no evidence of osseous metastasis.
-IMPRESSION: Normal study
 
 ## CHEST AND ABDOMINOPELVIC CT SCAN
 INDICATION: RT BREAST CANCER 
