@@ -20,18 +20,18 @@ Impression: Cardiomegaly (secondary to Hypertensive heart disease).
 
 ## Normal
 
-Chest CT Scan
-Indication:
-Technique: Plain and contrast enhanced series of chest CT
-Findings: 
-There is no supraclavicular, retrostenal, mediastinal or hilar adenopathy.
-The lung fields are clear of opacities, nodules and masses.
-There is no pleural effusion.
-The heart size is within normal limits. There is no pericardial effusion.
-The outline, density and architecture of the dorsal spine, ribs and sternum are normal.
-
-Impression: Normal Chest CT Scan
-
+			Chest CT Scan
+			Indication:
+			Technique: Plain and contrast enhanced series of chest CT
+			Findings: 
+			There is no supraclavicular, retrostenal, mediastinal or hilar adenopathy.
+			The lung fields are clear of opacities, nodules and masses.
+			There is no pleural effusion.
+			The heart size is within normal limits. There is no pericardial effusion.
+			The outline, density and architecture of the dorsal spine, ribs and sternum are normal.
+			
+			Impression: Normal Chest CT Scan
+			
 
 ## CTPA
 
