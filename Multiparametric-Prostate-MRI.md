@@ -19,6 +19,8 @@ No suspicious locoregional or pelvic lymph nodes. 
 
 No suspicious bone lesions.
 
+The urinary bladder is normal.
+
 Conclusion: 
 
 - Clinically significant cancer likely (PI-RADS 4) in the left anterior transitional zone
