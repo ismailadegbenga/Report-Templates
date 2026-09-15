@@ -267,7 +267,7 @@ A simple thin-walled cyst with a diameter of 43mm is in the left ovary. There is
 
 The liver has a normal span and signal. There is no hepatic mass lesion. The intra-hepatic ducts, common bile duct, pancreatic ducts and gallbladder are normal.  
 The pancreas and spleen also display normal dimensions and density.  
-The adrenals and kidneys show normal position, size and density.  
+The adrenals and kidneys show normal position, size and signal.  
 There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. Both kidneys show normal uptake and excretion of contrast media.  
 The ureters display normal caliber and position.  
 There is no mass lesion, polyp or calculus in the urinary bladder.  
