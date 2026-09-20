@@ -1,5 +1,6 @@
 ## CT CHEST AND ABDOMEN
 Indication:
+Technique: Plain, triple-phase and delayed series of chest and abdominopelvic CT
 Findings:
 CHEST
 There is no pulmonary nodule or mass lesion. There is no pleural effusion.
