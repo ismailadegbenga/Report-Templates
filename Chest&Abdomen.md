@@ -2,6 +2,7 @@
 
 ## CHEST AND ABDOMINOPELVIC CT SCAN
 INDICATION: RT BREAST CANCER 
+TECHNIQUE: Plain, triple-phase, delayed series of chest and abdominopelvic CT scan
 FINDINGS: 
 There is an irregular contrast-enhancing isodense mass lesion measuring 38 x 21 x 19mm in the upper inner quadrant of the right breast.
 A few (four on either side) small axillary lymph nodes with preserved fatty hilum are noted. The largest is on the right with a short axis diameter of 11.6mm.
