@@ -3,18 +3,17 @@ Indication:
 Technique: Plain, triple-phase and delayed series of chest and abdominopelvic CT
 Findings:
 CHEST
-There is no pulmonary nodule or mass lesion. There is no pleural effusion.
-The heart size (CTR: 0.54) is normal. There is no pericardiac effusion.
+The lungs are clear of opacities, nodules and masses. There is no pleural effusion.
+The heart size is normal. There is no pericardiac effusion.
 There is no hilar or mediastinal lymphadenopathy. 
-Calcified atherosclerotic plaques are in the arch of the aorta
-There are osteophytes on the anterior margins of the T9, T10 and T11 vertebrae. There is no evidence of metastasis to the chest wall. 
+The bones display normal density and architecture. There is no evidence of metastasis to the chest wall. 
 ABDOMEN
-The liver span of 156mm is within the normal range. There is no solid or cystic intra-hepatic mass lesion. The porta hepatis is normal.
+The liver span and density are normal. There is no solid or cystic hepatic mass lesion. The porta hepatis is normal.
 The gallbladder and bile ducts are normal.
-The spleen is also normal with a span of 63.1mm.
-The pancreas is normal.
+The spleen and pancreas display normal size and architecture.
+The kidneys and adrenals display normal size, position and density. 
 There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney. 
-The kidneys show normal uptake and excretion of contrast media. The course and outline of the ureters are normal. The urinary bladder is normal. The adrenals are normal. 
+The kidneys show normal uptake and excretion of contrast media. The course and outline of the ureters are normal. The urinary bladder is normal. 
 The stomach, small and large bowel are normal. There is no bowel wall thickening or mass.
 There is no ascites or para-aortic lymphadenopathy.
 The uterus is anteverted, normal in size. A calcified intra-mural myoma with a diameter of 18.3mm is in the uterus.
