@@ -16,11 +16,7 @@ There is no mass lesion, calculus or pelvicalyceal dilatation in either kidney.
 The kidneys show normal uptake and excretion of contrast media. The course and outline of the ureters are normal. The urinary bladder is normal. 
 The stomach, small and large bowel are normal. There is no bowel wall thickening or mass.
 There is no ascites or para-aortic lymphadenopathy.
-The uterus is anteverted, normal in size. A calcified intra-mural myoma with a diameter of 18.3mm is in the uterus.
 There is no evidence of metastasis to the thoracic, lumbar or sacral spine.
-Summary of findings:
-·	Aortic atherosclerosis
-·	Uterine leiomyoma
 Impression: No evidence of pulmonic, osseous or intra-abdominal malignancy/metastasis
 
 
