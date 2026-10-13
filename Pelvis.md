@@ -1,5 +1,6 @@
 ## Xray
 ### Normal
+Findings:
 There is normal pelvic symmetry.
 There is no evidence of fracture or subluxation of the bones and joints of the pelvis.
 The epiphyses and apophyses of both femora appear normal.
