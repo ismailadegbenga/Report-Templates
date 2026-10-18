@@ -236,3 +236,28 @@ Conclusion:
 ·	L2/L3 central disc protrusion with bilateral neural foraminal narrowing and moderate spinal canal stenosis
 ·	L3/L4 and L4/L5 diffuse disc bulge with bilateral neural foraminal narrowing and moderate spinal canal stenosis
 ·	C6/C7 and C7/D1 disc desiccation without spinal canal stenosis or neural foraminal narrowing
+
+
+### Dilated ventriculus terminalis
+
+MRI OF THE LUMBOSACRAL SPINE
+
+INDICATION: Low back pain
+
+TECHNIQUE: Sagittal T2WI of the entire spine. Non-contrast multiplanar T1WI, T2WI, STIR, and Diffusion-weighted sequences of the lumbosacral spine at 1.5T
+
+FINDINGS:
+
+There is desiccation and mild reduction in height of the L4/L5 intervertebral disc. There is no Modic change in the adjacent end-plates. There is no disc herniation or osteophytosis of the adjacent vertebral bodies. 
+
+The other discs display normal height and signal.
+
+There is an intradural intramedullary cystic ovoid cavity with regular and well-defined borders measuring 33 x 16mm in the conus medullaris, which was normally located at the T12/L1 level. There were no internal septae or mural nodules within this cavity; the surrounding conus was markedly effaced. The fluid within this cyst followed cerebrospinal fluid (CSF) signal characteristics in all pulse sequences. The filum terminale and the roots of the cauda equina showed no abnormalities. The central canal was non-dilatated superiorly.
+
+The outline, alignment and signal of the vertebral bodies and posterior elements were normal. There is no vertebral fracture or listhesis. There is no osseous lesion.
+
+CONCLUSION: 
+
+- Mild degeneration of the L4/L5 intervertebral disc
+
+- Dilated ventriculus terminalis
