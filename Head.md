@@ -45,7 +45,7 @@ Indication: RTA
 Technique: Non-contrast axial CT slices of the head and neck
 Findings
 There is no intra-cranial haemorrhage or haematoma.
-The cerebral hemispheres show normal density.
+The cerebral hemispheres, brainstem and cerebellum display a normal density.
 There is no shift of the midline brain structures.
 The ventricles and sub-arachnoid spaces are normal.
 The paranasal sinuses, mastoids, middle ears and orbits are also normal.
